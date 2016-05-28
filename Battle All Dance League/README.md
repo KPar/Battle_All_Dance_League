@@ -4,8 +4,9 @@ This is a personal project website for an event that occurred in 2013 called Bat
 The event organizer allowed me to use the photos and videos to use in this project.
 
 ## Tools Used
-1) Webstorm
-2) Bootstrap
-3) Grayscale Bootstrap Theme
-4) JQuery
-5) Venobox
+* [Webstorm] (https://www.jetbrains.com/webstorm/)
+* [Bootstrap] (http://getbootstrap.com/)
+* [Grayscale Bootstrap Theme] (http://startbootstrap.com/template-overviews/grayscale/)
+* [JQuery] (https://jquery.com/)
+* [Venobox] (http://lab.veno.it/venobox/)
+
